@@ -1,4 +1,6 @@
-# Font WSO2
+# Font for Personal use
+
+A fork from wso2-attic/ux-font-wso2 and modified for personal use. 
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
@@ -7,15 +9,6 @@ http://wso2.github.io/ux-font-wso2/
 
 Font generation is base on [sapegin/grunt-webfont](https://github.com/sapegin/grunt-webfont/)
 
-## Changelog
-
-[v1.3.0 GitHub milestones](https://github.com/wso2-dev-ux/font-wso2/issues?utf8=%E2%9C%93&q=milestone%3A1.3.0+is%3Aclosed)  
-[v1.2.2 GitHub milestones](https://github.com/wso2-dev-ux/font-wso2/issues?utf8=%E2%9C%93&q=milestone%3A1.2.2+is%3Aclosed)   
-[v1.2.1 GitHub milestones](https://github.com/wso2-dev-ux/font-wso2/issues?utf8=%E2%9C%93&q=milestone%3A1.2.1+is%3Aclosed)  
-[v1.2.0 GitHub milestones](https://github.com/wso2-dev-ux/font-wso2/issues?utf8=%E2%9C%93&q=milestone%3A1.2.0+is%3Aclosed)  
-[v1.1.0 GitHub milestones](https://github.com/wso2-dev-ux/font-wso2/issues?utf8=%E2%9C%93&q=milestone%3A1.1.0+is%3Aclosed)  
-[v1.0.2 GitHub milestones](https://github.com/wso2-dev-ux/font-wso2/issues?utf8=%E2%9C%93&q=milestone%3A1.0.2+is%3Aclosed)  
-[v1.0.1 GitHub milestones](https://github.com/wso2-dev-ux/font-wso2/issues?utf8=%E2%9C%93&q=milestone%3A1.0.1+is%3Aclosed)  
  
 ## Build
 
